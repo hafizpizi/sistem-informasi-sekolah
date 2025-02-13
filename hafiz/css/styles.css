@@ -1,0 +1,19 @@
+.root {
+    --primary:#987453;
+    --bg:#057;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+}
+
+
+body {
+    font-family: "Rubik", serif;
+    background-color: var(--bg);
+
+}
+
